@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="ExerciseToMuscle.cs" />
     <Compile Include="Exerсise.cs" />
+    <Compile Include="FitnezzeDataContext.cs" />
     <Compile Include="Muscle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
